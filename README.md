@@ -4,7 +4,7 @@
 
 ## Add ToolKit to your project
 <a href="https://www.cmonbaby.com">
-<img src="https://img.shields.io/bintray/v/cmonbaby/simon/compress_core?label=maven-central"></a>
+<img src="https://img.shields.io/bintray/v/cmonbaby/simon/toolkit_library?label=maven-central"></a>
 
 Via Gradle:
 ```gradle
